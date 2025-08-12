@@ -1,11 +1,11 @@
-# 📈 Sales Trend Analysis Using Aggregations  
+# 📈 Sales Trend Analysis Using Aggregations
 
-## 🎯 Objective  
+## 🎯 Objective
 Perform a monthly sales trend analysis on the **`online_sales`** dataset to evaluate **revenue** and **order volume** patterns.
 
 ---
 
-## 🛠 Tools & Technologies  
+## 🛠 Tools & Technologies
 - **MySQL** (Data querying & analysis)  
 
 ---
@@ -17,10 +17,10 @@ Perform a monthly sales trend analysis on the **`online_sales`** dataset to eval
 
 ---
 
-## 📌 Key Deliverables  
+## 📌 Key Deliverables
 - Monthly revenue trend analysis
 - Monthly order volume analysis  
-- Insights for sales strategy  
+- Insights for sales strategy
 
 ---
 
