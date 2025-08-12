@@ -18,7 +18,7 @@ Perform a monthly sales trend analysis on the **`online_sales`** dataset to eval
 ---
 
 ## 📌 Key Deliverables  
-- Monthly revenue trend analysis  
+- Monthly revenue trend analysis
 - Monthly order volume analysis  
 - Insights for sales strategy  
 
