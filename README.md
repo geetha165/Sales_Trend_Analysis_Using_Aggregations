@@ -1,23 +1,28 @@
-# Sales_Trend_Analysis_Using_Aggregations
-Task 6: Elevate Labs
+# 📈 Sales Trend Analysis Using Aggregations  
 
-# Sales Trend Analysis
+## 🎯 Objective  
+Perform a monthly sales trend analysis on the **`online_sales`** dataset to evaluate **revenue** and **order volume** patterns.
 
-## Objective
-Analyze monthly revenue and order volume from the online_sales dataset.
+---
 
-## Tools
-- MySQL
+## 🛠 Tools & Technologies  
+- **MySQL** (Data querying & analysis)  
 
-## Contents
-- SQL query for trend analysis
-- CSV of results
-- Observations, insights, and strategic recommendations
+---
 
+## 📂 Project Contents  
+- **SQL Script:** Queries for monthly sales & order volume trends.  
+- **Results (CSV):** Exported data from MySQL query execution.  
+- **Insights & Recommendations:** Observations and suggested actions for business improvement.  
 
----   
+---
 
-## Author
-**Damanti Murmu**      
-Aspiring Business and Data Analyst | 
-[LinkedIn](https://www.linkedin.com/in/damantimurmu/)
+## 📌 Key Deliverables  
+- Monthly revenue trend analysis  
+- Monthly order volume analysis  
+- Insights for sales strategy  
+
+---
+
+## 📬 Connect with me on LinkedIn:
+- <a href="https://www.linkedin.com/in/geetha-venkatesan2205/">👉 LinkedIn Profile</a>
