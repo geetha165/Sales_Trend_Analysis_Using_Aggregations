@@ -10,7 +10,7 @@ Perform a monthly sales trend analysis on the **`online_sales`** dataset to eval
 
 ---
 
-## 📂 Project Contents  
+## 📂 Project Contents
 - **SQL Script:** Queries for monthly sales & order volume trends.  
 - **Results (CSV):** Exported data from MySQL query execution.  
 - **Insights & Recommendations:** Observations and suggested actions for business improvement.
