@@ -6,8 +6,8 @@ Perform a monthly sales trend analysis on the **`online_sales`** dataset to eval
 ---
 
 ## 🛠 Tools & Technologies
-- **MySQL** (Data querying & analysis)  
-
+- **MySQL** (Data querying & analysis)
+- 
 ---
 
 ## 📂 Project Contents
